@@ -1,6 +1,6 @@
 import subprocess
 
-tst = "/home/user/testo"
+tst = "/home/ubuntu/testo"
 
 def checkout(cmd, text):
     result = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, encoding='utf-8')
