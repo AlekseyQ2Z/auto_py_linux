@@ -1,0 +1,36 @@
+
+=== Test at 2025-04-06 09:58:54.158936 ===
+Files count: 4
+File size: 1M
+CPU load: 1.10 0.52 0.45 4/598 16966
+
+
+=== Test at 2025-04-06 09:58:54.247114 ===
+Files count: 4
+File size: 1M
+CPU load: 1.10 0.52 0.45 4/599 17001
+
+
+=== Test at 2025-04-06 09:58:54.318435 ===
+Files count: 4
+File size: 1M
+CPU load: 1.10 0.52 0.45 3/599 17035
+
+
+=== Test at 2025-04-06 09:58:54.332891 ===
+Files count: 4
+File size: 1M
+CPU load: 1.10 0.52 0.45 11/599 17039
+
+
+=== Test at 2025-04-06 09:58:54.385670 ===
+Files count: 4
+File size: 1M
+CPU load: 1.10 0.52 0.45 3/600 17062
+
+
+=== Test at 2025-04-06 09:58:54.443308 ===
+Files count: 4
+File size: 1M
+CPU load: 1.10 0.52 0.45 3/600 17082
+

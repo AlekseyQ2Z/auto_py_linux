@@ -1,0 +1,13 @@
+folder_in: /home/ubuntu/tst/file
+folder_out: /home/ubuntu/tst/out
+folder_ext: /home/ubuntu/tst/ext
+folder_badarx: /home/ubuntu/tst/badarx
+count_file: 4
+size_file: 1M
+stat_alt: /home/ubuntu/stat_alt
+archive_type: 7z
+ssh:
+  host: localhost
+  user: ubuntu
+  passwd: "ubuntu"
+  port: 22
